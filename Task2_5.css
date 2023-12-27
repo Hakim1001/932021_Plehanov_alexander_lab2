@@ -1,0 +1,42 @@
+header{
+
+  min-width:500px;
+}
+body {
+     display: auto;
+    margin: auto;
+    min-width: 500px;
+    max-width: 500px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+      position: relative;
+   }
+   div.conteiner{
+       display: flex;
+       flex-direction: column;
+  padding-top: 20px;
+  background-color: #FFFFFF;
+
+   }
+div.text_t{
+
+    position: relative;
+  float:left;
+  visibility: visible;
+  width:100%;
+  background-color: green;
+  color: #FFFFFF;
+}
+div.text_blue{
+
+    position: relative;
+margin-left:-40px;
+float:left;
+visibility: visible;
+width:100%;
+background-color: blue;
+color: #FFFFFF;
+border: 20px solid blue;
+padding:20px 20px 20px 20px;
+}

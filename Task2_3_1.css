@@ -1,0 +1,19 @@
+body {
+
+    background-color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, sans-serif; /* Рубленый шрифт */
+   }
+
+div.text_t{
+  position:absolute;
+max-width: 600px;
+min-width: 600px;
+  visibility: visible;
+  background-color: blue;
+  color: #FFFFFF;
+  margin:auto;
+  left:0px;
+  right:0px;
+
+}

@@ -1,0 +1,37 @@
+header{
+
+  min-width:500px;
+}
+body {
+    display: auto;
+    margin: auto;
+    min-width: 500px;
+    max-width: 500px;
+    background-color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    position: relative;
+   }
+   div.conteiner{
+  display: flex;
+  padding-top: 20px;
+  background-color: #FFFFFF;
+   }
+div.text_t{
+  position: relative;
+  float:left;
+  visibility: visible;
+  width:100%;
+  background-color: #FFFFFF;
+  color: black;
+}
+div.text_blue{
+position: relative;
+float:left;
+visibility: visible;
+width:100%;
+background-color: #FFFFFF;
+color: black;
+border: 10px solid blue;
+padding:40px 40px 40px 40px;
+}

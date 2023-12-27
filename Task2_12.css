@@ -1,0 +1,32 @@
+header{
+
+}
+body {
+    width:100%;
+
+    font-size: 13px;
+    background-color: #FFFFFF;
+    font-family: Arial, sans-serif;
+   }
+
+   section.Left_Column{
+
+     position:relative;
+     min-width: 150px;
+     min-height: 100px;
+     background-color:bisque;
+     float: left;
+     width: 20%;
+
+      }
+      div.Blue_Column{
+
+      background-color:aqua;
+      position:absolute;
+      }
+  section.Right_Column{
+float:left;
+width: 80%;
+    background-color:darkgray;
+
+      }

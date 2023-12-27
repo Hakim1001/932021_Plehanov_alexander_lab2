@@ -1,0 +1,26 @@
+body {
+
+    background-color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+
+   }
+div.text_t{
+  position:absolute;
+max-width: 550px;
+min-width: 40%;
+  visibility: visible;
+  background-color: blue;
+  color: #FFFFFF;
+  margin:auto;
+  left:0px;
+  right:0px;
+
+}
+div.inner{
+  max-width: 100%;
+
+  min-height: 100%;
+
+
+}

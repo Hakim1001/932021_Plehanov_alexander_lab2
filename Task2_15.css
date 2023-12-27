@@ -1,0 +1,27 @@
+header{
+}
+body {
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    width:100%;
+   }
+div.Green_Block{
+  padding-left:10px;
+  max-width:100%;
+  font-size: 0px;
+}
+div.item{
+  font-size: 11px;
+  display:inline-block;
+  margin-right:20px;
+  vertical-align:top;
+  width:160px;
+  height:60px;
+  margin-bottom:20px;
+  background-color:aquamarine;
+}
+div.noclear{
+display:inline-block;
+background-color:bisque;
+width:100%;
+}

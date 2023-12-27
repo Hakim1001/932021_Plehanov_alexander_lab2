@@ -1,0 +1,27 @@
+body {
+
+    background-color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+
+   }
+
+div.Left_Box{
+
+}
+div.Right_Box
+{
+  min-width: 300px;
+  float: right;
+  position:relative;
+}
+div.content
+{
+  border: 2px solid #000;
+
+  min-height: 300px;
+  max-height: 300px;
+  background-color:aqua;
+  position:absolute;
+  overflow: hidden;
+}

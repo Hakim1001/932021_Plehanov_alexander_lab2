@@ -1,0 +1,51 @@
+header{
+
+}
+body {
+
+  min-width: 100%;
+    max-width: 100%;
+    font-size: 13px;
+    background-color: #FFFFFF;
+    font-family: Arial, sans-serif;
+   }
+
+   section.Left_Column{
+
+     position:relative;
+     width: 20%;
+
+     background-color:bisque;
+     float: left;
+
+
+      }
+      div.Blue_Column{
+
+      background-color:aqua;
+      position:absolute;
+      }
+  section.Right_Column{
+margin-left:20%;
+width: 80%;
+    background-color:darkgray;
+
+      }
+div.image-jpg{
+
+
+background-size: contain;
+background-repeat: no-repeat;
+
+
+}
+        img {
+
+          width:40%;
+          height:auto;
+
+        }
+div.Text_Picture{
+position: relative;
+float:left;
+}
